@@ -1,0 +1,8 @@
+.singleuser{
+    padding: 10px;
+    margin:10px 0px;
+    display: grid;
+    place-items: center;
+    grid-template-columns: 2fr 2fr 2fr 0.5fr 0.5fr;
+    border: 1px solid gray;
+}
